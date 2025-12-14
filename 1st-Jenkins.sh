@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Install JDK
-sudo apt install openjdk-17-jdk -y
+sudo apt install openjdk-17-jre-headless -y
 
 # Create keyrings folder
 sudo mkdir -p /usr/share/keyrings
